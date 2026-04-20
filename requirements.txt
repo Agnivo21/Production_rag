@@ -1,0 +1,11 @@
+langchain
+langgraph
+dotenv
+jupyter
+ipykernel
+langchain_google_genai
+pydantic
+faiss-cpu
+pypdf
+langchain_community
+sentence-transformers
