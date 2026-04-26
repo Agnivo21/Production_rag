@@ -9,3 +9,4 @@ faiss-cpu
 pypdf
 langchain_community
 sentence-transformers
+rank_bm25
